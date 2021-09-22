@@ -32,9 +32,9 @@ public class car
 		System.out.println("indicator lights on/off");
 		System.out.println("wind shield on/off");
 	}
-	public void startEngine() 
+	public void autoWindowRise() 
 	{
-		System.out.println("Engine Started");	
+		System.out.println("Window rised up automatically");	
 	}
 
 }
